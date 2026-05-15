@@ -5,6 +5,6 @@
 
 1. Скачать расширение:
 
-*[Скачать YouTube Overlay Search ZIP](https://github.com/FlipMirror/YouTubeOverlaySearch/raw/refs/heads/main/YouTube%20Overlay%20Search/downloads/YouTube%20Overlay%20Search.zip)
+* [Скачать YouTube Overlay Search ZIP](https://github.com/FlipMirror/YouTubeOverlaySearch/raw/refs/heads/main/YouTube%20Overlay%20Search/downloads/YouTube%20Overlay%20Search.zip)
 
 2. Войти в раздел "Расширения" и "Управление расширениями" браузера. Передвинуть ползунок "Режим разработчика". Нажать "Загрузить распакованное расширение" и выбрать папку с необходимым расширением.
